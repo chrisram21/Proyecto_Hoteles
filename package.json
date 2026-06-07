@@ -1,0 +1,10 @@
+{
+  "name": "proyecto-hoteles",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Utilidades compartidas del proyecto (normalizarResena).",
+  "main": "normalizarResena.js",
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
